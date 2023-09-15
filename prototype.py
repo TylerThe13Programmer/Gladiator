@@ -1386,6 +1386,7 @@ while run:
             if choice1 == "5":
                 print(f"Fights won: {kills}")
                 print(f"Playtime: ")
+                input("> ")
                 
             if name == "W01":
                 if choice1 == "404":
